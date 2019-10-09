@@ -1,0 +1,12 @@
+{
+  "name": "stefanomagrassi.github.io",
+  "private": true,
+  "author": "Stefano Magrassi",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "0.11.1"
+  }
+}

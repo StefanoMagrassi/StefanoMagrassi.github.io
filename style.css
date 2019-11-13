@@ -16,6 +16,9 @@ img {
 @media only screen and (min-device-width: 480px) {
   main {
     text-align: left;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1em 0;
   }
 
   article {
